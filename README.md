@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sharvari Limbkar
+# 💫 About me
 - 🔧 Frontend Web Developer (Angular, Ionic, Tailwind, React)
 - 🔧 specialize in modern frontend architecture and hybrid mobile development.
 - 🧠 Tech Mentor & Team Lead
