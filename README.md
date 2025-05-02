@@ -44,7 +44,7 @@
 ### 📫 Let’s Connect
 
 > Reach out via [LinkedIn](https://www.linkedin.com/in/sharvari-limbkar)
-[🌐 Portfolio](https://sharvarilimbkar.github.io/sharvaris-portfolio/browser/) (Coming Soon!)  
+[🌐 Portfolio](https://sharvarilimbkar.github.io/sharvaris-portfolio/browser/)
 [📧 Email](mailto:sharvarilimbkar825@gmail.com)
 
 ---
